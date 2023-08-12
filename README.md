@@ -7,6 +7,10 @@
 
 <!--
 **Bann01/Bann01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+opção
+a
+b
+c
 
 Here are some ideas to get you started:
 
